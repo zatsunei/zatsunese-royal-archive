@@ -1,4 +1,4 @@
-Zatsunese National Archive by GOV.ZNI on Github © 2025 by maplelander is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+Zatsunese Royal Archive by the Kingdom of Zatsunei on Github © 2025 by maplelander aka. Dezevlo is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 Attribution-ShareAlike 4.0 International
 
