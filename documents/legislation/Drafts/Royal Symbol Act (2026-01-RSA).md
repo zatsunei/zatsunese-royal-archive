@@ -1,7 +1,7 @@
-<h1 style="text-align:center; margin-bottom:0;">
+<h1 align="center">
 Royal Symbol Act
 </h1>
-<p style="text-align:center; font-size:1.5em; margin-top:0;">
+<p align="center">
 <strong>王室標章法</strong>
 </p>
 
