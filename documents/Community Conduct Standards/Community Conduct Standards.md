@@ -12,14 +12,14 @@ Community Conduct Standards
 <p>The Community Conduct Standards (CCS) establish rules for all people participating in games, services, or other activities within the Kingdom of Zatsunei. They define acceptable behavior, outline prohibited actions, and clarify expectations both in and out of roleplay. The CCS apply whenever conduct falls outside these standards or occurs out-of-character (OOC).
 </p>
 
-<strong>T<small>HIS DOCUMENT IS CONSIDERED AN EXTERNAL REGULATION AND DOES NOT FALL UNDER THE CONTEXT OF ROLEPLAY OR ANY STANDARD PROCEDURES. THIS DOCUMENT IS ADMINISTERED SOLELY BY THE ADMINISTRATION OF ZATSUNEI.</small></strong>
+<strong><sup>THIS DOCUMENT IS CONSIDERED AN EXTERNAL REGULATION AND DOES NOT FALL UNDER THE CONTEXT OF ROLEPLAY OR ANY STANDARD PROCEDURES. THIS DOCUMENT IS ADMINISTERED SOLELY BY THE ADMINISTRATION OF ZATSUNEI.</sup></strong>
 
 **Using loopholes to circumvent the rules and policies stated here will result in moderation.**
 
 *The CCS may be updated any time at our discretion.*
 
-<p><u>OOC</u> = out-of-character: Any communication, action, or behavior that occurs outside the roleplay context.
-<u>Administration:</u> People within the Kingdom of Zatsunei that are designated administrators or owners.</p>
+<p>OOC = out-of-character: Any communication, action, or behavior that occurs outside the roleplay context.
+Administration: People within the Kingdom of Zatsunei that are designated administrators or owners.</p>
 <hr>
 <br><br>
 </div>
