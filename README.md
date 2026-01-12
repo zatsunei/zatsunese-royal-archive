@@ -1,6 +1,6 @@
 # Zatsunese Royal Archive ![Repo Size](https://img.shields.io/github/repo-size/maplelander/zatsunese-royal-archive) ![Last Commit](https://img.shields.io/github/last-commit/maplelander/zatsunese-royal-archive) 
 
-<img src="media/Kingdom of Zatsunei/Government/Zatsunese Royal Archive/ZRA_Logo_White.png" width="600" alt="Logo of the Zatsunese Royal Archive in white" />
+<img src="archive/media/Kingdom of Zatsunei/Government/Zatsunese Royal Archive/ZRA_Logo_White.png" width="600" alt="Logo of the Zatsunese Royal Archive in white" />
 
 ---
 
@@ -11,9 +11,9 @@ The **Zatsunese Royal Archive (ZRA)** is the successor to the former Zatsunese N
 
 ## Important & Notable Links
 
-- [**Community Conduct Standards**](documents/Community%20Conduct%20Standards/Community%20Conduct%20Standards.md)
+- [**Community Conduct Standards**](archive/documents/Community%20Conduct%20Standards/Community%20Conduct%20Standards.md)
 
-- [**National Symbols**](media/Kingdom%20of%20Zatsunei/Important/National%20Symbols)
+- [**National Symbols**](archive/media/Kingdom%20of%20Zatsunei/Important/National%20Symbols)
 
 ---
 
