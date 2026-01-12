@@ -24,7 +24,7 @@ Royal Symbol Act
 <br>
 This Act hereby establishes the national symbols of the Kingdom of Zatsunei, including their standards and protections.
 <br><br>
-<p style="text-align:right; margin-bottom:0">The Kingdom of Zatsunei ザツネイ王国</p> 
+<p align="right">The Kingdom of Zatsunei ザツネイ王国</p> 
 <hr>
 <br>
 
