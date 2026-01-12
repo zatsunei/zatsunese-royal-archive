@@ -26,7 +26,7 @@ Community Conduct Standards
 </div>
 
 <div align="left" class="part">
-    <details>
+    <details open>
         <summary><h2>Part I. General Guidelines</h2></summary>
 
 ### 1. Respectful Conduct
@@ -102,7 +102,7 @@ If you or someone else is in crisis or at risk of self-harm or suicide, seek imm
 <br>
 
 <div align="left" class="part">
-    <details>
+    <details open>
         <summary><h2>Part II. Roleplay-related Guidelines</h2></summary>
 
 ### 1. Fail Roleplay (FRP)
