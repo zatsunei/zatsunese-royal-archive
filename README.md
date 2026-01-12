@@ -1,6 +1,6 @@
 # Zatsunese Royal Archive ![Repo Size](https://img.shields.io/github/repo-size/maplelander/zatsunese-royal-archive) ![Last Commit](https://img.shields.io/github/last-commit/maplelander/zatsunese-royal-archive) 
 
-<img src="media/Kingdom of Zatsunei/Important/National Symbols/Kingdom_of_Zatsunei_Flag.png" width="400" alt="National Flag of the Kingdom of Zatsunei" />
+<img src="media/Kingdom of Zatsunei/Government/Zatsunese Royal Archive/ZRA_Logo_White.png" width="400" alt="Logo of the Zatsunese Royal Archive in white" />
 
 ---
 
