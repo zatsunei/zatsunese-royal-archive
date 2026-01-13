@@ -1,14 +1,14 @@
 <div align="center" class="cover">
-<img align="center" src="assets/visual/CCS_Emblem.png" alt="Emblem of the Community Conduct Standards & Moderation"></img>
+<img src="assets/visual/CCS_Emblem.png" alt="Emblem of the Community Conduct Standards & Moderation" width="450"></img>
 <br>
 
-<h1 align="center">
+<h1>
 Community Conduct Standards
 </h1>
-<p align="center"><strong>for the Kingdom of Zatsunei and its Services</strong></p>
+<p><strong>for the Kingdom of Zatsunei and its Services</strong></p>
 
 
-<div align="center">
+<div>
 <p>The Community Conduct Standards (CCS) establish rules for all people participating in games, services, or other activities within the Kingdom of Zatsunei. They define acceptable behavior, outline prohibited actions, and clarify expectations both in and out of roleplay. The CCS apply whenever conduct falls outside these standards or occurs out-of-character (OOC).
 </p>
 
