@@ -1,0 +1,15 @@
+id: 2025-02-N-CC
+title: "Criminal Code"
+jurisdiction: N       # N = National
+
+date_first_draft: 2025-02-13
+date_enacted: 2025-05-19
+
+status: current
+version: 1
+
+amendments: []
+
+related: []
+summary: "The Criminal Code establishes a fundamental list of crimes and basic regulations regarding criminal justice."
+tags: [criminal, fundamental, national, justice, code]

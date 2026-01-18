@@ -1,0 +1,24 @@
+id: 2025-01-N-C
+title: "Constitution of the Kingdom of Zatsunei"
+jurisdiction: N       # N = National
+
+date_first_draft: 2025-01-28
+date_enacted: 2025-02-15
+
+status: current
+version: 1
+
+amendments:
+  - number: 1
+    date: 2025-04-19
+    summary: "'Āmadoshi' has been changed to 'Zatsuni'"
+    reference: "https://discord.com/channels/1334172116202815498/1334172116698009678/1363144754346459456"
+
+  - number: 2
+    date: 2025-05-13
+    summary: "Fixed Chapter II, Article 16 to mention Chapter II instead of Chapter III"
+    reference: "https://discord.com/channels/1334172116202815498/1334172116698009678/1371870859962224754"
+
+related: []
+summary: "First Constitution of the Kingdom of Zatsunei"
+tags: [constitution, fundamental, national]
