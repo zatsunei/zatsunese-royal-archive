@@ -1,11 +1,12 @@
 id: 2025-01-N-C
 title: "Constitution of the Kingdom of Zatsunei"
-jurisdiction: N       # N = National
+jurisdiction: national
 
 date_first_draft: 2025-01-28
 date_enacted: 2025-02-15
+date_disabled: 2026-02-11
 
-status: current
+status: superseded
 version: 1
 
 amendments:
